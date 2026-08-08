@@ -113,20 +113,26 @@ I believe that programming is more than writing code — it's about **turning pr
 
 ---
 
-# ` DEVELOPMENT ENVIRONMENT`
+# `DEVELOPMENT ENVIRONMENT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
+### `TOOLS & ENVIRONMENT`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" height="60"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS%20Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-050816?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-050816?style=for-the-badge&logo=intellijidea&logoColor=FF2D95"/>
 <img src="https://img.shields.io/badge/Linux-050816?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 </div>
+
 
 ---
 
