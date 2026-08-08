@@ -40,7 +40,7 @@
 
 ---
 
-# `01 // ABOUT ME`
+# `ABOUT ME`
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I believe that programming is more than writing code — it's about **turning pr
 
 ---
 
-# `02 // TECH STACK`
+# `TECH STACK`
 
 <div align="center">
 
@@ -113,7 +113,7 @@ I believe that programming is more than writing code — it's about **turning pr
 
 ---
 
-# `03 // DEVELOPMENT ENVIRONMENT`
+# ` DEVELOPMENT ENVIRONMENT`
 
 <div align="center">
 
@@ -130,150 +130,7 @@ I believe that programming is more than writing code — it's about **turning pr
 
 ---
 
-# `04 // PROJECT DATABASE`
-
-<div align="center">
-
-### `SELECTED PROJECTS`
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-### 🧠 `COMPUTER SCIENCE`
-
-<a href="https://github.com/amandasteglich">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amandasteglich&repo=SEU_REPOSITORIO&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=ff2d95&text_color=ffffff"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### ⚡ `JAVA PROJECTS`
-
-<a href="https://github.com/amandasteglich">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amandasteglich&repo=SEU_REPOSITORIO&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=ff2d95&text_color=ffffff"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🐍 `PYTHON PROJECTS`
-
-<a href="https://github.com/amandasteglich">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amandasteglich&repo=SEU_REPOSITORIO&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=ff2d95&text_color=ffffff"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🚀 `EXPERIMENTAL LAB`
-
-<a href="https://github.com/amandasteglich">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amandasteglich&repo=SEU_REPOSITORIO&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=ff2d95&text_color=ffffff"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-> **SYSTEM NOTE:** Replace `SEU_REPOSITORIO` with the names of your actual repositories.
-
----
-
-# `05 // CURRENT OBJECTIVES`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    AMANDA@GITHUB:~$                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  $ ./current_mission.sh                                      │
-│                                                              │
-│  [████████████████████░░]  Programming foundations           │
-│  [███████████████░░░░░░░]  Java development                  │
-│  [██████████████░░░░░░░░]  Python development                │
-│  [████████████░░░░░░░░░░]  Algorithms & Data Structures      │
-│  [██████████░░░░░░░░░░░░]  Software Engineering              │
-│  [████████░░░░░░░░░░░░░░]  Open Source                        │
-│                                                              │
-│  STATUS: LEARNING_MODE = TRUE                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-### `SYSTEM STATISTICS`
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasteglich&show_icons=true&hide_border=true&bg_color=00000000&title_color=00f5ff&icon_color=ff2d95&text_color=ffffff&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasteglich&layout=compact&hide_border=true&bg_color=00000000&title_color=00f5ff&text_color=ffffff"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=amandasteglich&theme=transparent&hide_border=true&ring=00f5ff&fire=ff2d95&currStreakLabel=00f5ff&sideLabels=ffffff&dates=888888"/>
-
-</div>
-
----
-
-# `07 // ACTIVITY MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amandasteglich&bg_color=00000000&color=ffffff&line=00f5ff&point=ff2d95&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amandasteglich&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
----
-
-# `09 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-### `SNAKE PROTOCOL`
-
-<img src="https://raw.githubusercontent.com/amandasteglich/amandasteglich/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
-> To activate the Snake Animation, configure the GitHub Actions workflow from the repository `amandasteglich/amandasteglich`.
-
----
-
-# `10 // CONNECT`
+# ' CONNECT`
 
 <div align="center">
 
@@ -281,11 +138,11 @@ I believe that programming is more than writing code — it's about **turning pr
 <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/amanda-steglich-934241428">
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:amandacrga@gmail.com">
 <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=ff2d95"/>
 </a>
 
