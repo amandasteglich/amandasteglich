@@ -130,7 +130,7 @@ I believe that programming is more than writing code — it's about **turning pr
 
 ---
 
-# ' CONNECT`
+# `CONNECT`
 
 <div align="center">
 
@@ -138,7 +138,7 @@ I believe that programming is more than writing code — it's about **turning pr
 <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="www.linkedin.com/in/amanda-steglich-934241428">
+<a href="https://www.linkedin.com/in/amanda-steglich-934241428/">
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
 </a>
 
